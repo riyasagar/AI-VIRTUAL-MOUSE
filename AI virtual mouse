@@ -1,5 +1,3 @@
-
-
 import cv2 #camera
 import mediapipe as mp 
 #The MediaPipe framework is mainly used for rapid prototyping of perception pipelines with AI models 
