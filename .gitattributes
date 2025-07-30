@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-AI\ virtual\ mouse/*.py linguist-language=Python
+*text=auto
