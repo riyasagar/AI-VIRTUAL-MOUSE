@@ -41,7 +41,6 @@ It allows you to control your computer's mouse pointer with **hand gestures**, r
    ```bash
    git clone https://github.com/riyasagar/ai-virtual-mouse.git
    cd ai-virtual-mouse
-````
 
 2. **Install dependencies**:
 
